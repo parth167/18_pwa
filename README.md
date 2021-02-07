@@ -14,12 +14,15 @@
 
 # Project Description
 
-An app to track income and expenses. Works both online & offline & is downloadable as a PWA!
+This is a budget tracker app that has been upgraded to work online and offline. The app syncs to the server when there is an internet connection, but it can also work offline and then will sync the data the next time an internet connection is detected. This progressive web application utilizes browser caching and IndexedDB.
 
 ## Screen Shot of Deployed Application
 
-- ![home](https://github.com/parth167/user_directory/blob/main/user_directory/public/images/home.jpg)
-- ![offline](https://github.com/parth167/user_directory/blob/main/user_directory/public/images/home.jpg)
+- ![home](https://github.com/parth167/18_pwa/blob/main/public/images/New%20Bitmap%20Image.jpg)
+
+- - offline app schreenshot
+
+- ![offline](https://github.com/parth167/18_pwa/blob/main/public/images/offline.jpg)
 
 # Installation
 
